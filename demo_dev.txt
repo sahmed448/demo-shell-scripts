@@ -1,5 +1,4 @@
 This is dev
 
-This commit is wrong (bug, issue)
 
 This is a fine commit
